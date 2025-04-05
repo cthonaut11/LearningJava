@@ -1,4 +1,4 @@
-package stringPractice;
+package string_practice;
 
 /**
  * 3. Написать функцию, принимающую в качестве параметров имя, фамилию и отчество

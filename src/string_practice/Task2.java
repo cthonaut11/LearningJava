@@ -1,4 +1,4 @@
-package stringPractice;
+package string_practice;
 
 /**
  * 2. Написать функцию, принимающую 2 параметра: строку и слово - и возвращающую true,

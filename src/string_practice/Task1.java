@@ -1,4 +1,4 @@
-package stringPractice;
+package string_practice;
 
 
 /**

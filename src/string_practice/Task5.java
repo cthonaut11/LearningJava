@@ -1,6 +1,5 @@
-package stringPractice;
+package string_practice;
 
-import java.rmi.MarshalException;
 import java.util.Arrays;
 
 /**

@@ -1,4 +1,4 @@
-package stringPractice;
+package string_practice;
 
 /**
  * 4. Подсчитать количество всех точек, запятых и восклицательных знаков в строке.
